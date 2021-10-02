@@ -1,5 +1,1 @@
-Gene_Barcode_Matrices/GSE124880_Xu/Food-Allergy-PP-LP_cluster_v1.txt filter=lfs diff=lfs merge=lfs -text
-Gene_Barcode_Matrices/GSE124880_Xu/GSE124880_PP_LP_mm10_count_barcode.tsv.gz filter=lfs diff=lfs merge=lfs -text
-Gene_Barcode_Matrices/GSE124880_Xu/GSE124880_PP_LP_mm10_count_barcode_v2.tsv.gz filter=lfs diff=lfs merge=lfs -text
-Gene_Barcode_Matrices/GSE124880_Xu/GSE124880_PP_LP_mm10_count_gene.tsv.gz filter=lfs diff=lfs merge=lfs -text
-Gene_Barcode_Matrices/GSE124880_Xu/GSE124880_PP_LP_mm10_count_matrix.mtx.gz filter=lfs diff=lfs merge=lfs -text
+Outputs/*.rds filter=lfs diff=lfs merge=lfs -text
