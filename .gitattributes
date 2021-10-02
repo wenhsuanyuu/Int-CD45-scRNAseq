@@ -1,1 +1,4 @@
 Outputs/*.rds filter=lfs diff=lfs merge=lfs -text
+Outputs/GSE124880*.rds filter=lfs diff=lfs merge=lfs -text
+Outputs/Seurat_merge_two_datasets_*.rds filter=lfs diff=lfs merge=lfs -text
+Outputs/KOvWT_DEG_inputs/*.txt filter=lfs diff=lfs merge=lfs -text
