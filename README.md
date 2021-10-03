@@ -5,5 +5,5 @@ Cherng-Shyang Chang, Wen-Hsuan Yu, Jhen-Wei Ruan, Chih-Ting Huang, Chiao-Mei Lin
 
 <br>
 
-### GEO data upload (GSE176087)
+#### GEO data upload (GSE176087)
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE176087
